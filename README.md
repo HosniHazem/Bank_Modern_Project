@@ -4,4 +4,4 @@
 
 ## Demo App Link
 
-The demo version of the app is here [Bank Modern Project](https://personalblog-gpt3.netlify.app)
+The demo version of the app is here [Bank Modern Project](https://bank-modern-proj.netlify.app)
